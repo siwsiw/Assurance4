@@ -1,0 +1,25 @@
+.card-container {
+width: 500px;
+height: 600px;
+background: #FFF;
+border-radius: 6px;
+position: absolute;
+box-shadow: 0px 1px 10px 1px rgb(136, 127, 127);
+/* overflow: hidden;
+display: inline-block; */
+}
+.card-container .ui form .upper-container{
+  background-color: rgb(253, 255, 127);
+}
+ .image-container img{
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-top: -20px;
+  
+  
+}
+.part2{
+  padding-left: 10px;
+}
